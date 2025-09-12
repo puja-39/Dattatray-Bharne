@@ -1,0 +1,173 @@
+.only-desktop {
+    display: block;
+}
+.only-mobile {
+    display: none;
+}
+@media (max-width: 480px) {
+    .kode_logo {
+        width: 82% !important;
+        margin-left: 2%;
+        margin-right: 2%;
+
+    }
+    html, body {
+    width: 100%;
+    overflow-x: hidden;
+}
+
+}
+@media (max-width: 992px) {
+    .full-image-section-aboutus {
+        padding-left: 35%; 
+         padding-right: 35%; 
+    }
+    .page-title {
+        font-size: 32px;
+    }
+    .breadcrumb {
+        font-size: 16px;
+    }
+}
+@media (max-width: 767px) {
+    .only-desktop {
+        display: none !important;
+    }
+    .only-mobile {
+        display: block !important;
+    }
+}
+
+
+@media (max-width: 576px) {
+    .full-image-section-aboutus {
+        padding-left: 0;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .banner-content {
+        text-align: center;
+    }
+
+    .page-title {
+        font-size: 28px;
+    }
+
+    .breadcrumb {
+        font-size: 14px;
+        white-space: nowrap; 
+        overflow-x: auto; 
+        -webkit-overflow-scrolling: touch; 
+    }
+
+    .breadcrumb::-webkit-scrollbar {
+        display: none; 
+    }
+}
+
+
+/* Show only on mobile */
+@media (max-width: 767px) {
+     
+    .whatsapp-btn {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .whatsapp-btn i {
+        margin-right: 5px;
+    }
+     .kf_touch_field  {
+        padding-top: 15px; 
+    }
+}
+
+#menuToggle i {
+    color: #fff; 
+    font-size: 20px; 
+}
+
+
+.mobile-menu {
+    position: fixed;
+    top: 0;
+    left: -250px;      
+    width: 250px;       
+    height: 80%;
+    background: #000;   
+    transition: left 0.3s ease-in-out;
+    z-index: 9999;
+    padding: 60px 20px 20px;
+    box-sizing: border-box;
+    overflow-y: auto;
+}/* Increase navbar toggle button size */
+#menuToggle {
+    width: 40px;        
+    height: 43px;      
+    padding: 10px;     
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.close-btn {
+    position: absolute;
+    top: 10px;
+    left: 15px;
+    background: none;
+    border: none;
+    color: white;
+    font-size: 36px;
+    cursor: pointer;
+    z-index: 9001;
+}
+
+.close-btn:hover {
+    color: #ff9933;
+}
+
+
+.mobile-menu.active {
+    color: #fff;
+    left: 0;
+}
+
+.mobile-menu ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.mobile-menu ul li {
+    margin: 10px 0;
+}
+.kode-parent-menu.active > .dl-submenu {
+    display: block;
+}
+ .mobile-menu ul li a {
+    display: block;
+    color: #fff;  
+    text-decoration: none;
+    padding: 10px 15px;
+    font-size: 16px;
+    border-radius: 5px;
+    transition: background 0.2s;
+}
+.mobile-menu ul li a:hover {
+    background: #333; 
+}
+
+.kf_office_name .nav-link.active {
+    background-color: #f93 !important;
+    color: #fff !important;
+    border-color: #f93 !important;
+}
+
+
+
+
+
+

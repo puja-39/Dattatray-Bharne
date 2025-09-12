@@ -1,0 +1,35 @@
+.settings-tab.active{
+	background-color: #eff1f9;
+    border-top-color: #e1e6f1;
+    border-bottom-color: #e1e6f1;
+}
+.settings-tab:hover {
+	cursor: pointer;
+    background-color: #f4f5fb;
+    border-top-color: #e1e6f1;
+    border-bottom-color: #e1e6f1;
+}
+.bootstrap-tagsinput{
+    padding: 0px 0px 10px 10px !important;
+    border: 1px solid #eee !important;
+}
+.cursor-pointer{
+    cursor: pointer;
+}
+.dropzone {
+    border: 1px solid #e5e5e5;
+}
+.display-none{
+    display:none;
+}
+.note-editor .note-editable {
+    height: 350px !important; /* Set your desired height here */
+    min-height: 200px !important; /* Optionally, set a minimum height */
+}
+
+.autocomplete-suggestions { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; border: 1px solid #999; background: #FFF; cursor: default; overflow: auto; -webkit-box-shadow: 1px 4px 3px rgba(50, 50, 50, 0.64); -moz-box-shadow: 1px 4px 3px rgba(50, 50, 50, 0.64); box-shadow: 1px 4px 3px rgba(50, 50, 50, 0.64); }
+.autocomplete-suggestion { padding: 2px 5px; white-space: nowrap; overflow: hidden; }
+.autocomplete-no-suggestion { padding: 2px 5px;}
+.autocomplete-selected { background: #eff1f9; }
+.autocomplete-suggestions strong { font-weight: bold; color: #000; }
+.autocomplete-group { padding: 2px 5px; font-weight: bold; font-size: 16px; color: #000; display: block; border-bottom: 1px solid #000; }

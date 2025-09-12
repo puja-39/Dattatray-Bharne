@@ -1,0 +1,461 @@
+.kode_cnt_info ul li i,
+.kode_cnt_info ul li:hover,
+.kode_menu ul li.active>a,
+.kode_menu ul li:hover>a,
+.kode_menu ul li:focus>a,
+.kode_caption a.kode_link_1:hover i,
+.kode_breaking_news2 .kode_breaking_hdg h6,
+.kode_brekg_news_des .bx-wrapper .bx-controls-direction a.bx-prev:before,
+.kode_brekg_news_des .bx-wrapper .bx-controls-direction a.bx-next:before,
+ul.kode_tab_lnk li.active a,
+ul.kode_tab_lnk li:hover a,
+ul.kode_tab_lnk li:focus a,
+.kode_wht_des ul li span,
+.kode_wht_des ul li:hover h6 a,
+.kode_press_news:hover .kode_news_des h6 a,
+.kode_press_news:hover .kode_news_des a,
+.kode_press_news:hover .kode_news_des a i,
+.kode_news_date ul li:hover a,
+.kode_campgn_lst1:hover .kode_lst1_des h6,
+.kode_campgn_lst2:hover .kode_lst1_des h6,
+.kode_politician:hover .kode_politician_des h6 a,
+.kode_politician_des ul li:hover a,
+.kode_politician_des ul li:focus a,
+.kode_progress h6,
+.kode_latest_blog_des ul li:hover a,
+.kode_latest_blog_des h6 a:hover,
+.kode_testimonial_wrap.owl-theme .owl-controls .owl-buttons div.owl-prev:hover:before,
+.kode_testimonial_wrap.owl-theme .owl-controls .owl-buttons div.owl-next:hover:before,
+.kode_testi_wrap:hover a,
+.kode_widgt_touch ul li:hover,
+.kode_widgt_touch ul li:hover a,
+.kode_foo_field input[type=submit]:hover,
+.kode_foo_field button:hover,
+.kode_site_map ul li:hover a,
+.kode_copyright span a:hover,
+.kode_widgt_event ul li:hover a,
+.kode_widgt_tweets ul li:hover a,
+.kode_copyright_des a:hover,
+.kode_about_services:hover i,
+.kode_about_services:hover h5 a,
+.kode_achment_wrap:hover .kode_achment_des h5 a,
+.kode_where_we ul li:hover h5,
+.kode_donate i,
+.kode_volunteer_btn a i,
+.goal_des ul li::before,
+.kode_pagination ul li:hover a b,
+.kode_achevemnt_des_2 h5:hover a,
+.kode_news_wrap_des>b>a,
+.kode_news_wrap_des a:hover,
+.kode_news_list_des>h6>a:hover,
+.kode_author:hover>a,
+.kode_news_list_des>ul>li>a>i,
+.kode_news_list_des>ul>li>a:hover,
+.kode_aside_search:focus form button,
+.kode_aside_search:hover form button,
+.kode_news_list:hover h6 a,
+.kode_aside_cat ul li:hover a,
+.kode_aside_event_des span b,
+.kode_aside_event ul figure figcaption a:hover,
+.kode_event_wrap:hover .kode_event_des h6>a,
+.kode_event_wrap:hover .kode_event_des>a,
+.kode_event_des>ul>li:hover a,
+.kode_work_des h6 a:hover,
+.kode_event_list:hover>h6>a,
+.kode_event_list>ul>li:hover>a,
+.kode_aside_map_des span i,
+.kode_orgnizer_social li:hover a,
+.kode_summary ul li:before,
+.kode_event_share ul li:hover a,
+ul.kode_orgnizer_email li:hover,
+.kode_comment_des a,
+.kode_aside_organizer ul.kode_aside_contnt li:hover,
+.kode_aside_organizer ul.kode_aside_org_scl li:hover a,
+.kode_news_detail>ul>li>a>span,
+.kode_news_detail>ul>li>a>i,
+.kode_news_detail>ul>li:hover a,
+.kode_event_list a:hover,
+.kf_pagination ul li:hover a,
+.kode_contact_des span:hover,
+.kode_contact_des span a:hover,
+.kode_contact_field textarea,
+.kode_focus_wrap:hover h6,
+.kode_focus_wrap:hover a,
+.kf_location_info a:hover,
+.kf_loc_socil_icon li a:hover,
+.kf_location_info:hover>i,
+.kf_location_info:hover h6,
+.kf_404_wrap h2 span,
+.kf_404_wrap h4,
+.kf_page_list ul li:hover:before,
+.kf_page_list ul li:hover a,
+.kf_comming_counter ul.countdown span,
+.kf_comming_social ul li:hover a,
+.kf_comming_form button:hover,
+.kf_comming_form input[type=submit]:hover {
+    color: #f93
+}
+
+.kode_scl_icon ul li.active,
+.kode_scl_icon ul li:hover,
+.kode_navigation_outr_wrap:before,
+.kode_menu ul li.active:before,
+.kode_menu ul li:hover:before,
+.kode_menu ul li:focus:before,
+.kode_menu ul ul li:after,
+.kode_favorite:hover,
+.kode_search:hover,
+.kode_caption a.kode_link_1:hover,
+.kode_breaking_hdg,
+.kode_breaking_news2:after,
+ul.kode_tab_lnk li:before,
+ul.kode_tab_lnk li:after,
+.kode_wel_demo_des a.kode_link_3:hover,
+.kode_about_welcome a.kode_link_3:hover:before,
+.kode_wht_des .bx-wrapper .bx-pager.bx-default-pager a:hover,
+.kode_wht_des .bx-wrapper .bx-pager.bx-default-pager a.active,
+.kode_press_news:before,
+.kode_press_news:hover .kode_news_des h6 a:before,
+.kode_press_news figure.kode_pres1_style:after,
+.kode_press_news figure.kode_pres2_style:after,
+.kode_galry_item figure:before,
+.kode_campgn_lst1:hover .kode_cam_date,
+.kode_campgn_lst1:hover .kode_cam_date:before,
+.kode_campgn_lst1:hover .kode_cam_date:after,
+.kode_campgn_lst2:hover .kode_cam_date,
+.kode_campgn_lst2:hover .kode_cam_date:before,
+.kode_campgn_lst2:hover .kode_cam_date:after,
+.kode_progress .progress-bar,
+.kode_purchase2_bg,
+.kode_newsletter_bg,
+.kode_newsletter_bg:after,
+.kode_newsletter_form form button,
+.kode_widgt_event ul li figure:after,
+.kode_footer_logo ul li:hover a,
+.kode_copyright>a:hover,
+.kode_copyright_bg,
+.kode_subcribe_bg,
+.kode_about_services:hover h5 a:before,
+.kode_socil_counter_bg,
+.kode_achment_wrap:hover figcaption h6,
+.kode_where_we ul:before,
+.kode_where_we ul li:hover .kode_where_year,
+.kode_hdg_3 h4:before,
+.kode_volunteer_btn a:before,
+.kode_goal_wrap .accordion-open,
+.kode_planning_wrap .nav-tabs li.active a,
+.kode_planning_wrap .nav-tabs li.active a:focus,
+.kode_planning_wrap .nav-tabs li.active a:hover,
+.kode_planning_wrap ul li.active a,
+.kode_planning_wrap ul li:hover a,
+.kode_pagination .pagination li:hover a,
+.kode_about_welcome a.kode_link_3,
+.kode_news_list_des span,
+.kode_calender .fc-toolbar,
+.kode_aside h5,
+.kode_aside_flicker ul li figure:before,
+.kode_event_wrap figure:before,
+.kode_event_des ul:before,
+.kode_advance_service figure:before,
+.kode_work_wrap figure,
+.event_timer_date,
+.kode_timer:before,
+.kode_event_list figure,
+.kode_aside_org_des>a h6,
+.kode_contact_field input[type=submit],
+.kode_contact_field button,
+.kode_logo,
+.kode_logo:before,
+.kode_logo:after,
+.kf_office_name li.active a,
+.kf_office_name li:hover a,
+.kf_office_name li:focus a,
+.kf_404_wrap h4:before,
+.kf_404_form button,
+.dl-menuwrapper button:hover,
+.dl-menuwrapper button:hover,
+.dl-menuwrapper button.dl-active {
+    background-color: #f93
+}
+
+.kode_favorite:hover a i,
+.kode_search:hover a i,
+.kode_menu ul ul,
+.kode_caption h6,
+.kode_breaking_news,
+.kode_breaking_hdg:before,
+.kode_breaking_news2,
+.kode_wht_des ul li:hover a span,
+.kode_purchase_bg:after,
+.kode_politician:hover figure,
+.kode_politician_des:before,
+.kode_testi_wrap:hover figure img,
+.kode_testimonial_wrap.owl-theme .owl-controls .owl-buttons div:hover,
+.kode_foo_field input[type=text]:focus,
+.kode_foo_field textarea:focus,
+.kode_about_bg,
+.kode_pagination .pagination li:hover a span,
+.kode_pagination ul li:hover a b,
+.kode_news_wrap_des,
+.kode_aside_search form input[type=text]:focus,
+.kode_event_wrap:hover a,
+.kode_team_img figure,
+.event_timer_date:before,
+.event_timer_date:after,
+.kode_border_top::before,
+.kode_border_top:after,
+.kode_orgnizer_wrap figure,
+.kode_related_comment ul li figure,
+.kode_news_detail figure,
+.kode_news_detail blockquote,
+.kode_contact_field input[type=text]:focus,
+.kode_contact_field textarea:focus,
+.kf_office_name li,
+.kf_location_info:hover i,
+.kf_comming_form form input[type=text]:focus,
+.kf_comming_form button:hover,
+.kf_comming_form input[type=submit]:hover {
+    border-color: #f93
+}
+
+.kode_cnt_info ul li,
+.kode_scl_icon ul li,
+.kode_scl_icon ul li a,
+.kode_menu ul li:before,
+.kode_menu ul ul li a,
+.kode_menu ul ul li:after,
+.kode_favorite,
+.kode_search,
+.kode_favorite i,
+.kode_search i,
+.kode_menu ul ul,
+.kode_link_1,
+.kode_link_1 i,
+.kode_breaking_news2,
+.kode_program_list:before,
+.kode_program_des,
+.kode_program_hover,
+.kode_program_list:after,
+.kode_link_2:before,
+a.kode_link_2,
+ul.kode_tab_lnk li:before,
+ul.kode_tab_lnk li:after,
+ul.kode_tab_lnk li a,
+.kode_link_3,
+.kode_link_3 i,
+.kode_link_3:before,
+.kode_wht_des ul li:hover h6 a,
+.kode_wht_des ul li:hover a span,
+.kode_press_news:before,
+.kode_news_date ul li a,
+.kode_news_des h6,
+.kode_news_des h6:before,
+.kode_news_des a,
+.kode_news_des a i,
+.kode_press_news figure.kode_pres1_style::before,
+.kode_press_news figure.kode_pres2_style::before,
+.kode_press_news figure.kode_pres1_style:after,
+.kode_press_news figure figcaption,
+.kode_press_news figure.kode_pres2_style:after,
+.kode_galry_item:before,
+.kode_galry_item figure figcaption,
+.kode_galry_item figure:before,
+.kode_galry_item figure:after,
+.kode_galry_des,
+.kode_galry_des p,
+.kode_galry_des h6,
+.kode_lst1_des h6,
+.kode_cam_date,
+.kode_cam_date:before,
+.kode_cam_date:after,
+.kode_politician,
+.kode_politician figure,
+.kode_politician figure:before,
+.kode_poli_img_des,
+.kode_politician_des h6 a,
+.kode_politician_des p,
+.kode_politician_des ul li a,
+.kode_politician_des:before,
+.kode_latest_blog_des,
+.kode_latest_blog_des ul li a,
+.kode_latest_blog_des h6 a,
+.kode_latest_blog figure img,
+.kode_audio_wrap figure:before,
+.kode_audio_wrap figure figcaption,
+.kode_audio_wrap figure figcaption a,
+.kode_testi_wrap figure img,
+.kode_testimonial_wrap.owl-theme .owl-controls .owl-buttons div,
+.kode_testi_wrap a,
+.kode_widgt_touch ul li,
+.kode_widgt_touch ul li a,
+.kode_foo_field input[type=submit],
+.kode_foo_field button,
+.kode_footer_logo ul li a,
+.kode_site_map ul li a,
+.kode_copyright a,
+.kode_widgt_event ul li,
+.kode_widgt_event ul li a,
+.kode_widgt_tweets ul li a,
+.kode_foo_gallery ul li a img,
+.kode_newsletter_form form button,
+.kode_copyright_des a,
+.kode_about_services i,
+.kode_about_services h5 a,
+.kode_about_services h5 a:before,
+.kode_achment_wrap figcaption h6,
+.kode_achment_des h5 a,
+.kode_where_year,
+.kode_where_year h6,
+.kode_where_des h5,
+.kode_where_we figure a:before,
+.kode_goal_wrap .accordion-open,
+.kode_planning_wrap ul li a,
+.kode_pagination .pagination li a,
+.kode_pagination .pagination li a span,
+.kode_pagination ul li a b,
+.kode_news_wrap,
+.kode_news_wrap figure:before,
+.kode_news_wrap_des a,
+.kode_news_list_des>h6>a,
+.kode_news_list_des>ul>li>a,
+.kode_author>a,
+.kode_news_list figure img,
+.kode_aside_cat ul li a,
+.kode_aside_event ul li figure:before,
+.kode_aside_event ul li figure figcaption,
+.kode_aside_event ul figure figcaption a,
+.kode_aside_flicker ul li figure:before,
+.kode_aside_flicker ul li figure figcaption,
+.kode_event_wrap,
+.kode_event_wrap figure:before,
+.kode_event_wrap figure figcaption,
+.kode_event_des>h6>a,
+.kode_event_des>a,
+.kode_event_des>ul>li>a,
+.kode_advance_service figure:before,
+.kode_advance_service figure,
+.kode_service_caption,
+.kode_advance_hdg,
+.kode_advance_hdg i,
+.kode_advance_hdg h6,
+.kode_work_des h6 a,
+.kode_work_hover,
+.kode_event_list>h6>a,
+.kode_event_list>ul>li>a,
+.kode_aside_gallery ul li a img,
+ul.kode_orgnizer_email li,
+.kode_btn_1:before,
+ul.kode_aside_contnt li,
+ul.kode_aside_org_scl li a,
+.kode_aside_org_des a h6,
+.kode_news_detail>ul>li a,
+.kf_pagination ul li a,
+.kode_event_list a,
+.kode_news_detail figure img,
+.kode_aside_video figure:before,
+.kode_contact_field input[type=submit],
+.kode_contact_field button,
+.kode_contact_des span,
+.kode_contact_des span a,
+.kode_contact_field input[type=text],
+.kode_contact_field textarea,
+.kode_focus_wrap h6,
+.kode_focus_wrap a,
+.kode_video_icon,
+.kf_office_name li a,
+.kf_loc_socil_icon li a,
+.kf_location_info a,
+.kode_btn_1,
+.kf_location_info i,
+.kf_location_info,
+.kf_location_info h6,
+.kf_page_list ul li a,
+.kf_page_list ul li:before,
+.kf_404_form button:hover,
+.kf_404_form input[type=submit]:hover,
+.kf_comming_form button,
+.kf_comming_form input[type=submit],
+.kf_comming_social ul li a {
+    transition: all .3s ease-in-out;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out
+}
+
+.kode_latest_blog:hover figure img,
+.kode_news_detail figure:hover img,
+.kode_news_list:hover figure img {
+    transform: scale(1.2) rotateZ(-6deg);
+    -webkit-transform: scale(1.2) rotateZ(-6deg);
+    -ms-transform: scale(1.2) rotateZ(-6deg);
+    -moz-transform: scale(1.2) rotateZ(-6deg);
+    -o-transform: scale(1.2) rotateZ(-6deg)
+}
+
+::selection {
+    background: #f93;
+    color: #fff
+}
+
+::-webkit-selection {
+    background: #f93;
+    color: #fff
+}
+
+::-moz-selection {
+    background: #f93;
+    color: #fff
+}
+
+.kode_politician_des:before {
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-top: 10px solid #f93
+}
+
+.kode_about_welcome a.kode_link_3 {
+    outline: 1px solid #f93
+}
+
+.kode_countup_bg:before {
+    background: -moz-linear-gradient(left, rgba(65, 192, 220, 1) 0%, rgba(232, 79, 50, 1) 100%);
+    background: -webkit-gradient(linear, left top, right top, color-stop(0%, rgba(65, 192, 220, 1)), color-stop(100%, rgba(232, 79, 50, 1)));
+    background: -webkit-linear-gradient(left, rgba(65, 192, 220, 1) 0%, rgba(232, 79, 50, 1) 100%);
+    background: -o-linear-gradient(left, rgba(65, 192, 220, 1) 0%, rgba(232, 79, 50, 1) 100%);
+    background: -ms-linear-gradient(left, rgba(65, 192, 220, 1) 0%, rgba(232, 79, 50, 1) 100%);
+    background: linear-gradient(to right, rgba(65, 192, 220, 1) 0%, rgba(232, 79, 50, 1) 100%)
+}
+
+.kode_purchase_bg:before {
+    background: -moz-linear-gradient(left, rgba(238, 75, 44, 1) 0%, rgba(65, 192, 220, 1) 100%);
+    background: -webkit-gradient(linear, left top, right top, color-stop(0%, rgba(238, 75, 44, 1)), color-stop(100%, rgba(65, 192, 220, 1)));
+    background: -webkit-linear-gradient(left, rgba(238, 75, 44, 1) 0%, rgba(65, 192, 220, 1) 100%);
+    background: -o-linear-gradient(left, rgba(238, 75, 44, 1) 0%, rgba(65, 192, 220, 1) 100%);
+    background: -ms-linear-gradient(left, rgba(238, 75, 44, 1) 0%, rgba(65, 192, 220, 1) 100%);
+    background: linear-gradient(to right, rgba(238, 75, 44, 1) 0%, rgba(65, 192, 220, 1) 100%)
+}
+
+@media(max-width:991px) {
+    .kode_galry_des {
+        background-color: #f93
+    }
+}
+
+@media(min-width:768px) and (max-width:979px) {
+    .kode_galry_des {
+        background-color: #f93
+    }
+}
+
+@media(max-width:767px) {
+    .kode_galry_des {
+        background-color: #f93
+    }
+}
+
+@media(max-width:480px) {
+    .kode_galry_des {
+        background-color: #f93
+    }
+}

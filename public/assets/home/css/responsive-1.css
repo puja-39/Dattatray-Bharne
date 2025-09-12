@@ -1,0 +1,32 @@
+/* Default: Hide the button */
+.whatsapp-btn {
+    display: none;
+    position: fixed;
+    bottom: 30px;
+    left: 20px;
+    z-index: 9999;
+    text-decoration: none;
+}
+
+/* Show only on mobile screens */
+@media (max-width: 767px) {
+    .whatsapp-btn {
+        display: inline-block;
+    }
+}
+
+.close-btn {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    background: none;
+    border: none;
+    color: #ea910b;
+    font-size: 26px;
+    cursor: pointer;
+    z-index: 1001;
+}
+
+.close-btn:hover {
+    color: #f00;
+}

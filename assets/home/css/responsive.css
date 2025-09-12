@@ -1,0 +1,108 @@
+@media (max-width: 768px) {
+ .donation-btn{
+    margin-left: 0rem !important;
+}
+ .navbar-toggler {
+    margin-left: auto;
+}
+.navbar-brand.logo {
+display: flex;
+align-items: center;
+position: absolute;
+top: -35px;
+left: 15px !important;
+z-index: 10;
+}
+.fa-chevron-right{
+  margin-right: 0 !important;
+}
+.full-image-section {
+    background-image: url("../images/home/home-bg.jpg");
+    background-size: 100% !important;
+    background-position: center;
+    background-repeat: no-repeat !important;
+    width: 100%;
+    height: 11vh !important; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.page-title {
+    font-size: 16px !important;
+    font-weight: bold;
+    margin: 0;
+}
+.full-image-section-aboutus .banner-content {
+    position: relative;
+    z-index: 2;
+    left: 88px !important;
+    top: 44px;
+}
+.full-image-section-vedio
+ {
+    background-image: url(../images/home/home-vedio.jpg);
+    background-size: 100% !important;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 19vh !important;
+}
+.full-image-section-aboutus {
+    background-image: url("../images/banners/about-us-banner.jpg");
+    background-size: 100% 100%!important;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 180px !important; 
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    text-align: center;
+}
+@media (max-width: 576px) {
+  .top-bar .container {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 5px;
+  }
+
+  .top-bar .d-flex.align-items-center {
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .social-icons i {
+    margin-right: 5px;
+  }
+
+ 
+}
+
+@media (max-width: 992px) {
+    .full-image-section {
+        height: 35vh;
+    }
+}
+
+@media (max-width: 576px) {
+    .full-image-section {
+        height: 50vh;
+    }
+}
+@media (max-width: 991px) {
+    .navbar-toggler {
+        margin-left: auto;
+    }
+    .navbar-brand.logo {
+    display: flex;
+    align-items: center;
+    position: absolute;
+    top: -35px;
+    left: 24px;
+    z-index: 10;
+}
+}
+}

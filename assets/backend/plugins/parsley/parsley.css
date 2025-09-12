@@ -1,0 +1,5 @@
+p.parsley-success {color: #ea5455;background-color: #DFF0D8;border: 1px solid #ea5455;font-size: 0.857rem;}
+p.parsley-error {color: #ea5455;background-color: #F2DEDE;border: 1px solid #ea5455;font-size: 0.857rem;}
+ul.parsley-errors-list {list-style: none;color: #ea5455;padding-left: 0;font-size: 0.857rem;}
+input.parsley-error,textarea.parsley-error,select.parsley-error {/*background: #FAEDEC;*/border: 1px solid #ea5455 !important;/*border-bottom: 1px solid #E85445;*/font-size: 0.857rem;}
+.btn-group .parsley-errors-list{display: none;}

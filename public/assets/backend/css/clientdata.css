@@ -1,0 +1,75 @@
+.note-editor.note-frame {
+    height: 280px;
+    overflow: auto;
+}
+
+.card-body.design-card{
+    height: 300px;
+    overflow: auto;
+}
+
+.card-body.design-cardp{
+    height: 200px;
+    overflow: auto;
+}
+
+.commentsp {
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.single-comments:nth-child(2n+1) {
+    background: #F5F5F5;
+    padding: 15px;
+}
+
+.single-comments:nth-child(2n) {
+    background: #FFF6DB;
+    padding: 15px;
+    direction: rtl;
+    text-align: right;
+}
+
+.cdata p {
+    color: #949494;
+    font-size: 12px;
+}
+
+.circle {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
+
+.single-comments:nth-child(2n) .circle {
+    background: #F68E1E;
+}
+
+.single-comments:nth-child(2n+1) .circle {
+    background: #593C65;
+}
+
+.card.custom-card {
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.single-comments {
+    border-radius: 10px;
+}
+
+.dropzone {
+    min-height: 100px;
+}
+
+.comment-details {
+    margin: 0 20px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #e0e0e0 !important;
+}
+
+::-webkit-scrollbar {
+    width: 7px !important;
+}
