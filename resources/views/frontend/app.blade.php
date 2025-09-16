@@ -50,6 +50,9 @@
     transition: all 0.3s ease-in-out;
     position: relative;
 } */
+ .bx-pager {
+  display: none !important;
+}
 
 .kode_navigation_outr_wrap.scrolled {
     position: fixed;
